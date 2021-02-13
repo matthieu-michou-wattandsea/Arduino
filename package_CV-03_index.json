@@ -4,9 +4,9 @@
       "name": "mega2560-CV-03",
       "maintainer": "Matthieu Michou",
       "websiteURL": "https://github.com/damellis/attiny",
-      "email": "",
+      "email": " ",
       "help": {
-        "online": ""
+        "online": " "
       },
       "platforms": [
         {
@@ -14,17 +14,16 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "mega2560-CV-03",
-          "help": {
-            "online": ""
-          },
-          "url": "https://drive.google.com/file/d/1tIwRRk4ho950eS2_daG3i9uekGqp-8Ri/view?usp=sharing",
+          "url": "https://github.com/matthieu-michou-wattandsea/Arduino/raw/main/mega2560-CV-03.zip",
           "archiveFileName": "mega2560-CV-03.zip",
           "checksum": "SHA-256:057edf3776fdffaf802db478449d88c54b2775e5e4b45d846226fd2e63d88af6",
           "size": "10046",
           "boards": [
             {"name": "CV-03 ou HPU-03"},
           ],
-          "toolsDependencies": []
+          "toolsDependencies": [
+
+          ]
         }
       ],
       "tools": []
