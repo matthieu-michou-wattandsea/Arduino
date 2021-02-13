@@ -6,7 +6,7 @@
       "websiteURL": "https://github.com/matthieu-michou-wattandsea/Arduino",
       "email": " ",
       "help": {
-        "online": ""
+        "online": " "
       },
       "platforms": [
         {
@@ -14,9 +14,6 @@
           "architecture": "avr",
           "version": "1.0.0",
           "category": "CV-03 2560",
-          "help": {
-            "online": ""
-          },
           "url": "https://github.com/matthieu-michou-wattandsea/Arduino/raw/main/mega2560-CV-03.zip",
           "archiveFileName": "mega2560-CV-03.zip",
           "checksum": "SHA-256:cb72d39559e92dcb8dc0fa2bfbc799a1fd81d8cb7a69ec91b216d977f125acc0",
@@ -24,10 +21,12 @@
           "boards": [
             {"name": "CV-03 ou HPU-03"},
           ],
-          "toolsDependencies": []
+          "toolsDependencies": [
+            
+          ]
         }
       ],
-      "tools": []
+      "tools": [  ]
     }
   ]
 }
