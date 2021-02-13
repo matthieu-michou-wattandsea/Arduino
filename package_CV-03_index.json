@@ -19,7 +19,7 @@
           "checksum": "SHA-256:057edf3776fdffaf802db478449d88c54b2775e5e4b45d846226fd2e63d88af6",
           "size": "10046",
           "boards": [
-            {"name": "CV-03 ou HPU-03"},
+            {"name": "CV-03 ou HPU-03"}
           ],
           "toolsDependencies": [
 
