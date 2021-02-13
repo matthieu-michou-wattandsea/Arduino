@@ -1,7 +1,7 @@
 {
   "packages": [
     {
-      "name": "mega2560-CV-03",
+      "name": "CV-03 2560",
       "maintainer": "Matthieu Michou",
       "websiteURL": "https://github.com/matthieu-michou-wattandsea/Arduino",
       "email": "",
@@ -10,10 +10,10 @@
       },
       "platforms": [
         {
-          "name": "mega2560-CV-03",
+          "name": "CV-03 2560",
           "architecture": "avr",
           "version": "1.0.0",
-          "category": "mega2560-CV-03",
+          "category": "CV-03 2560",
           "help": {
             "online": ""
           },
