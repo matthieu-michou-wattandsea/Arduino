@@ -16,8 +16,8 @@
           "category": "mega2560-CV-03",
           "url": "https://github.com/matthieu-michou-wattandsea/Arduino/raw/main/mega2560-CV-03.zip",
           "archiveFileName": "mega2560-CV-03.zip",
-          "checksum": "SHA-256:057edf3776fdffaf802db478449d88c54b2775e5e4b45d846226fd2e63d88af6",
-          "size": "10046",
+          "checksum": "SHA-256:352eab58ebe0a6e0c0e3ab306008473c437d69f46a480fdbec3cfce843bf674c",
+          "size": "10055",
           "boards": [
             {"name": "CV-03 ou HPU-03"}
           ],
