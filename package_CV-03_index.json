@@ -3,7 +3,7 @@
     {
       "name": "mega2560-CV-03",
       "maintainer": "Matthieu Michou",
-      "websiteURL": "https://github.com/damellis/attiny",
+      "websiteURL": "https://github.com/matthieu-michou-wattandsea/Arduino",
       "email": "",
       "help": {
         "online": ""
@@ -17,7 +17,7 @@
           "help": {
             "online": ""
           },
-          "url": "https://drive.google.com/file/d/1tIwRRk4ho950eS2_daG3i9uekGqp-8Ri/view?usp=sharing",
+          "url": "https://github.com/matthieu-michou-wattandsea/Arduino/blob/main/mega2560-CV-03.zip",
           "archiveFileName": "mega2560-CV-03.zip",
           "checksum": "SHA-256:cb72d39559e92dcb8dc0fa2bfbc799a1fd81d8cb7a69ec91b216d977f125acc0",
           "size": "10197",
