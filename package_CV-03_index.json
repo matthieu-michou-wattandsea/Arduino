@@ -12,7 +12,7 @@
         {
           "name": "WATT AND SEA AVR Boards",
           "architecture": "avr",
-          "version": "1.0.1",
+          "version": "1.0.2",
           "category": "mega2560-CV-03",
           "url": "https://github.com/matthieu-michou-wattandsea/Arduino/raw/main/mega2560-CV-03.zip",
           "archiveFileName": "mega2560-CV-03.zip",
